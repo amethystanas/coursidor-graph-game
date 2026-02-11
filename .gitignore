@@ -1,0 +1,13 @@
+*~
+*.dot
+*.gcda
+*.gcno
+*.o
+*.out
+install/*
+*.gch
+*.h.gch
+*.so
+server
+alltests
+
