@@ -27,7 +27,14 @@ Common targets:
 After `make install`, you can start a game with:
 
 ```bash
-./install/server [-m M] [-t T] [-M NB] ./install/player1.so ./install/player2.so
+./install/server [-m M] [-s S] [-M NB] ./install/player1.so ./install/player2.so
 
-./install/server -m 5 -t T -M 200 ./install/smartayke.so ./install/player_wiwi.so
+./install/server -m 5 -s 10 -M 200 ./install/smartayke.so ./install/player_wiwi.so
 ```
+Options:
+
+-m to specify the graph width (board size)
+
+-s to specify a seed
+
+-M to specify the maximum number of turns
