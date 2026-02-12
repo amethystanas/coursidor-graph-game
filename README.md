@@ -38,3 +38,7 @@ Options:
 -s to specify a seed
 
 -M to specify the maximum number of turns
+
+## Academic context
+
+This project was developed with 4 team members as a semester‑6 project at Bordeaux INP – ENSEIRB‑MATMECA as part of the C/Functional Programming curriculum.
